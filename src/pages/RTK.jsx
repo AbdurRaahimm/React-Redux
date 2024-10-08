@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Layout from '@/components/layout';
+import Layout from '@/components/Layout';
 import { useDeletePostMutation, useFetchPostsQuery } from '../redux/apiSlice';
 import timeAgo from '../utilis/timeAgo';
 import AddPost from '../components/AddPost';
