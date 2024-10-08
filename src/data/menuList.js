@@ -14,5 +14,10 @@ export const menuList = [
         title: "API CRUD",
         url: "/api",
     },
+    {
+        id:4,
+        title: "RTK Query",
+        url: "/rtk",
+    }
 
 ]
